@@ -2,4 +2,4 @@
 
 Alternative for 'colorize' ruby gem
 
-![image](https://github.com/SysFugy/rubycolor/assets/149673181/2f2ae5c8-53b5-4732-baeb-e0bdcfa25a02)
+![image](https://github.com/SysFugy/rubycolor/assets/149673181/42757f0f-f4a8-47ed-8707-70f9f2d4a388)
